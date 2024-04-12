@@ -10,10 +10,10 @@ The site was developed using a custom developed based of the _s starter theme, d
 Documentation on the site functionality and the plugins used can be found here: <URL> 
 
 ##Authors
-###Beau Williams
+##Beau Williams
 Linkedin: https://www.linkedin.com/in/beau-dean-williams/
-###David McDonald
+##David McDonald
 Linkedin: https://www.linkedin.com/in/david-mcdonald-6079132b9/
-###Nathan Stevens
+##Nathan Stevens
 Linkedin: https://www.linkedin.com/in/nathan-stevens-a954392bb/
 
